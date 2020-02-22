@@ -230,6 +230,7 @@ We collect some cool repositories with awesome `README.md`, you can view them in
 - [Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo#readme)
 - [metowolf/upimg-cli](https://github.com/metowolf/upimg-cli#readme)
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif#readme)
+- [BigCoke233/textretty](https://github.com/BigCoke233/textretty.css)
 
 You can also view some nice `README.md` in an awesome-list, [awesome-readme](https://github.com/matiassingers/awesome-readme).
 
